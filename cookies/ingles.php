@@ -1,0 +1,1 @@
+<h1>Welcome Practice PHP</h1>
